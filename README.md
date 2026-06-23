@@ -64,7 +64,7 @@ resume_screening/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/resume-screening.git
+git clone https://github.com/Babar44944/Resume-Screening-System.git
 cd resume-screening
 ```
 
