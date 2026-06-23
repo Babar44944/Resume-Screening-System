@@ -65,7 +65,7 @@ resume_screening/
 
 ```bash
 git clone https://github.com/Babar44944/Resume-Screening-System.git
-cd resume-screening
+cd Resume-Screening-System
 ```
 
 ### Install Dependencies
