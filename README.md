@@ -78,13 +78,7 @@ pip install -r requirements.txt
 
 ## ▶️ Run the Application
 
-### Option 1
-
-```bash
-streamlit run app.py
-```
-
-### Option 2
+### Option 1 automatically everything install
 
 ```bash
 python run.py
